@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+pickle
+attacut
+pythainlp
+nltk
